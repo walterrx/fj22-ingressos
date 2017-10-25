@@ -167,4 +167,11 @@
         </plugins>
     </build>
 
+	<developers>
+		<developer>
+			<name>Walter Rodrigues </name>
+			<email>walterrx@gmail.com</email>
+		</developer>
+	</developers>
+	
 </project>
